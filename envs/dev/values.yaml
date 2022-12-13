@@ -14,4 +14,4 @@ spec:
   karpenterInstanceProfile:
   ingress:
     type: 'alb' # nginx | alb
-    host: dev.example.com
+    # host: dev.example.com
